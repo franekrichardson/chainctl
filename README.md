@@ -1,0 +1,2 @@
+# chainctl
+chainctl pacman package
